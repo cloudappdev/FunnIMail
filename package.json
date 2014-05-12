@@ -1,0 +1,13 @@
+{
+  "name": "FunIMail",
+  "description": "Fun iPhone email app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "imap": "0.8.x",
+    "redis": "0.10.x",
+    "mailparser": "0.4.x",
+    "body-parser": "1.0.x"
+  }
+}
